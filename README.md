@@ -4,8 +4,6 @@
 <h1> Implemetation Video </h1>
 https://www.awesomescreenshot.com/video/13599199?key=299c181bdece56fc58317077bbc9fa56
 
-![video](https://user-images.githubusercontent.com/75296347/209827077-2524e7a9-984f-4955-bd7e-56d064b9a420.mp4)
-
 
 <h1> Mini Alexa with some of the functionalities like ALEXA! </h1>
 
@@ -15,10 +13,11 @@ A simple mini alexa with various functionalities like playing a song on youtube 
 
 
 ## Python Modules Used :
-
-1.speech_recognition a
-2.pyttsx3
-3.pywhatkit
-4.datetime
-5.wikipedia
-6.pyjokes
+<li>
+<ol>speech_recognition</ol>
+<ol>pyttsx3</ol>
+<ol>pywhatkit</ol>
+<ol>datetime</ol>
+<ol>wikipedia</ol>
+<ol>pyjokes</ol>
+</li>
