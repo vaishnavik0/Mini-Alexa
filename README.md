@@ -1,6 +1,8 @@
 # Mini-Alexa
 ![alexa-amazon](https://user-images.githubusercontent.com/75296347/209823609-07c3c302-218d-41a7-9844-cfeefed5db46.gif)
 
+<h1> Implemetation Video </h1>
+https://www.awesomescreenshot.com/video/13599199?key=299c181bdece56fc58317077bbc9fa56
 
 
 <h1> Mini Alexa with some of the functionalities like ALEXA! </h1>
